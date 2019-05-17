@@ -1,4 +1,7 @@
 # Sudoku-Game
+![你猜猜我是谁？](https://img.shields.io/steam/size/100.svg)
+![带logo社交样式](https://img.shields.io/badge/GitHub-10k+-yellow.svg?style=social&logo=github)
+[![](https://travis-ci.org/Alamofire/Alamofire.svg?branch=master)](https://travis-ci.org/Alamofire/Alamofire)
 >设计小组   
 >>软件工程2组
 ## 数独游戏介绍 
